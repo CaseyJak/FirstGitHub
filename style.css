@@ -1,0 +1,18 @@
+h1 {
+    color:white;
+    background-color:black;
+    text-align:center;
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float:right;
+    text-align:left;
+}
+
+.center {
+    text-align:center;
+}
